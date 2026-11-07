@@ -1,0 +1,38 @@
+[
+  {
+    "year": 2026,
+    "kind": "csv",
+    "url": "https://data.weather.gov.hk/weatherAPI/hko_data/calendar/nongli_calendar_2026.csv",
+    "sha256": "8b2892b0e04faa632f09ea36ffee29e67b4427b85a18708d907d88d8be452b98"
+  },
+  {
+    "year": 2026,
+    "kind": "txt",
+    "url": "https://www.hko.gov.hk/tc/gts/time/calendar/text/files/T2026c.txt",
+    "sha256": "7b0831acb16a5a72a1ab553205e938b2f658c3837e06440f22c084e1a39832dd"
+  },
+  {
+    "year": 2027,
+    "kind": "txt",
+    "url": "https://www.hko.gov.hk/tc/gts/time/calendar/text/files/T2027c.txt",
+    "sha256": "2c6a406cd2f8c6f1cf11f154737b7c5ae4afb53c87d76b101bd561b482e3b93f"
+  },
+  {
+    "year": 2028,
+    "kind": "txt",
+    "url": "https://www.hko.gov.hk/tc/gts/time/calendar/text/files/T2028c.txt",
+    "sha256": "4b0c09cc20947f6199106f2664c3b1178f20510f5ccf044be502c352250bb3c0"
+  },
+  {
+    "year": 2029,
+    "kind": "txt",
+    "url": "https://www.hko.gov.hk/tc/gts/time/calendar/text/files/T2029c.txt",
+    "sha256": "4477676453008afe875869c3915acdfc7a62cdbc3c6001751978eea7d7c1f4f7"
+  },
+  {
+    "year": 2030,
+    "kind": "txt",
+    "url": "https://www.hko.gov.hk/tc/gts/time/calendar/text/files/T2030c.txt",
+    "sha256": "6f402ba7aa1c1db74172e0eb47cd38feb3562889c289a60d7fb9ba67ba8ca234"
+  }
+]

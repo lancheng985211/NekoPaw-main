@@ -1,0 +1,12 @@
+.pio/
+**/.pio/
+**/wifi_config.h
+**/platformio_override.ini
+**/codex-sync.json
+*.log
+*.lock
+__pycache__/
+.vscode/
+.vs/
+**/.signing/
+**/.toolchain/
